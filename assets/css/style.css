@@ -420,6 +420,11 @@ textarea.form-control {
  * Skills
 /* ---------------------------------------------- */
 
+
+.skills{
+	margin-left: 150px;
+}
+
 .chart {
     display: inline-block;
     height: 140px;
@@ -904,7 +909,7 @@ figure.effect-bubba:hover p {
 
 .cbp-qtrotator .cbp-qtcontent.cbp-qtcurrent,
 .no-js .cbp-qtrotator .cbp-qtcontent {
-	position: relative; 
+	position: relative;
 	z-index: 100;
 	pointer-events: auto;
 	opacity: 1;
@@ -957,7 +962,7 @@ figure.effect-bubba:hover p {
 }
 
 /* Example for media query */
-@media screen and (max-width: 30.6em) { 
+@media screen and (max-width: 30.6em) {
 
 	.cbp-qtrotator {
 		font-size: 70%;
@@ -968,4 +973,3 @@ figure.effect-bubba:hover p {
 	}
 
 }
-
